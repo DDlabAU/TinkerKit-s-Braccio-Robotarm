@@ -1,14 +1,14 @@
 # TinkerKit-s-Braccio-Robotarm
 Dette repository er en guide til hvordan du bruger TinkerKit Braccio, som er en programmérbar robotarm, der kan styres via en arduino. I dette eksempel er robotarmen forbundet til en PIR sensor, som registrerer enhver bevægelse inden for 6 meter (du kan læse mere om hvordan en PIR sensor fungere her). Hvis PIR sensoren registrerer en bevægelser, sender den et signal til arduino’en om, at armen skal vinke. 
 
-<img src="./braccio.png" alt="TinkerKit-s-Braccio-Robotarm" width="70%">
+<img src="./braccio.png" alt="TinkerKit-s-Braccio-Robotarm" width="100%">
 
 ## Table of Contents
-- [Getting Started](#printer-overview)
-- [Forbind PIR sensoren til arduino’en](#app-for-printer)
-- [Download Braccio biblioteket](#templates)
-- [Få TinkerKit Braccio til at vinke](#guide-to-templates)
-- [Brugsanvisning](#brugsanvisning)
+- [Getting Started](#Getting_started)
+- [Forbind PIR sensoren til arduino’en](#Forbind_PIR_sensoren_til_arduino’en)
+- [Download Braccio biblioteket](#Download_braccio_biblioteket)
+- [Få TinkerKit Braccio til at vinke](#Få_TinkerKit_Braccio_til_at_vinke)
+- [Brugsanvisning](#Brugsanvisning)
 
 ## Getting Started
 For at lave dette kredsløb, skal du bruge følgende ting: 
@@ -21,7 +21,7 @@ For at lave dette kredsløb, skal du bruge følgende ting:
 ## Forbind PIR sensoren til arduino’en
 Byg kredsløbet som vist på billedet, men husk at dobbelttjekke, at du forbinder arduino’en til de rigtige pins på PIR sensoren (GND=GND, OUT=2, og 5V=5V), da rækkefølgen på disse kan variere afhængig sensortypen.   
 
-<img src="./kredsløb.png" alt="Arduino-kredsløb" width="70%">
+<img src="./kredsløb.png" alt="Arduino-kredsløb" width="100%">
 
 ## Download Braccio biblioteket
 Åben Arduino IDE og tilslut arduino’en til din computer via USB-A til USB-B kablet. 

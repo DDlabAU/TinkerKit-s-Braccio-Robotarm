@@ -1,5 +1,5 @@
 # TinkerKit-s-Braccio-Robotarm
-Dette repository er en guide til hvordan du bruger TinkerKit Braccio, som er en programmérbar robotarm, der kan styres via en arduino. I dette eksempel er robotarmen forbundet til en PIR sensor, som registrerer enhver bevægelse inden for 6 meter (du kan læse mere om hvordan en PIR sensor fungere her). Hvis PIR sensoren registrerer en bevægelser, sender den et signal til arduino’en om, at armen skal vinke. 
+Dette repository er en guide til hvordan du bruger TinkerKit Braccio, som er en programmérbar robotarm, der kan styres via en arduino. I dette eksempel er robotarmen forbundet til en PIR sensor, som registrerer enhver bevægelse inden for 6 meter (du kan læse mere om hvordan en PIR sensor fungerer [her](https://github.com/DDlabAU/infrared-kommunikation/blob/master/PIR_Sensor.md). Hvis PIR sensoren registrerer en bevægelser, sender den et signal til arduino’en om, at armen skal vinke. 
 
 <img src="./braccio.png" alt="TinkerKit-s-Braccio-Robotarm" width="100%">
 

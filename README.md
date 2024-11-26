@@ -4,7 +4,7 @@ Dette repository er en guide til hvordan du bruger TinkerKit Braccio, som er en 
 <img src="./braccio.png" alt="TinkerKit-s-Braccio-Robotarm" width="100%">
 
 ## Table of Contents
-- [Getting Started](#Getting_started)
+- [Getting Started](#getting_started)
 - [Forbind PIR sensoren til arduino’en](#Forbind_PIR_sensoren_til_arduino’en)
 - [Download Braccio biblioteket](#Download_braccio_biblioteket)
 - [Få TinkerKit Braccio til at vinke](#Få_TinkerKit_Braccio_til_at_vinke)

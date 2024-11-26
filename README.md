@@ -4,11 +4,11 @@ Dette repository er en guide til hvordan du bruger TinkerKit Braccio, som er en 
 <img src="./braccio.png" alt="TinkerKit-s-Braccio-Robotarm" width="100%">
 
 ## Table of Contents
-- [Getting Started](#getting_started)
-- [Forbind PIR sensoren til arduino’en](#Forbind_PIR_sensoren_til_arduino’en)
-- [Download Braccio biblioteket](#Download_braccio_biblioteket)
-- [Få TinkerKit Braccio til at vinke](#Få_TinkerKit_Braccio_til_at_vinke)
-- [Brugsanvisning](#Brugsanvisning)
+- [Getting Started](#getting-started)
+- [Forbind PIR sensoren til arduino’en](#forbind-pir-sensoren-til-arduinoen)
+- [Download Braccio biblioteket](#download-braccio-biblioteket)
+- [Få TinkerKit Braccio til at vinke](#få-tinkerkit-braccio-til-at-vinke)
+- [Brugsanvisning](#brugsanvisning)
 
 ## Getting Started
 For at lave dette kredsløb, skal du bruge følgende ting: 
